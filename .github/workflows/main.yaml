@@ -33,6 +33,11 @@ jobs:
       - name: Install npm dependencies
         run: npm ci
 
+      - name: Download allowlists
+        run: npm run download:allowlist
+        env:
+          ALLOWLIST_URLS: ${{ vars.ALLOWLIST_URLS }}
+
       - name: Download blocklists
         run: npm run download:blocklist
         env:
