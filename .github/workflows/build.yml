@@ -3,7 +3,9 @@ name: Publish to container registry
 on:
   push:
     branches:
-      - v*
+      - main
+    tags:
+      - 'v*'
   release:
     types: [ "published" ]
   # The "Sync branch" workflow doesn't trigger the push event, therefore we need a separate trigger for that
@@ -18,7 +20,8 @@ env:
   # github.repository as <account>/<repo>
   IMAGE_NAME: ${{ github.repository }}
   # Branch to build the container image from
-  BRANCH: v1
+  #BRANCH: v1
+  BRANCH: ${{ github.ref_name }}
 
 jobs:
   build:
