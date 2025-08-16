@@ -1,0 +1,41 @@
+! All commented out since blocklist is seperated
+! ||clients2.google.com^$important
+! ||mtalk.google.com^$important
+! #new domain used by asura to show advertisement
+! ||ishibernate.com^
+! #below 4 for asura adblocking
+! ||asuracomic.net/subscription^$url
+! asuracomic.net###header-ads
+! asuracomic.net###main-menu-ads
+! asuracomic.net##div#a[href*="/subscription"]
+! #try snapchat adblocking
+! ||snapads.com^
+! ||ads-interfaces.sc-cdn.net^
+! #||euw.adserver.snapads.com^
+! /(\.|^)snapads.com$/
+! #||snapchat-proxy.appspot.com
+! #||gtq6.sct.sc-prod.net
+! #||aw.sc-cdn.net
+! #||gcs.sc-cdn.net
+! ||topic-sticker-vending.snapchat.com
+! #||us-central1-gcp.api.snapchat.com
+! ||www.googleadservices.com
+! Allowlist starts below : 
+@@||calculator-api-in.allawnos.com^
+@@||deviladblock.duckdns.org^
+@@||duckdns.org^
+@@||gcp.api.snapchat.com^
+@@||raspiblock.duckdns.org^
+@@||newpc.raspiblock.duckdns.org^
+@@||duckdns.org^
+@@||piratebayproxy.net^
+@@||ssoweb.loylty.com^
+@@||uhdmovies.cat^
+@@||v.redd.it^
+! Uncomment the following when required :
+! @@||tools.literaturetimes.com
+! @@||throwbin.in
+! @@||d.throwbin.in
+! @@||megacloud.store^
+! @@||entitlements.jwplayer.com^
+! @@||megacloudforest.xyz^

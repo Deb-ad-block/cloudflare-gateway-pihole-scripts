@@ -1,0 +1,7 @@
+||clients2.google.com^
+||mtalk.google.com^
+||ishibernate.com^
+||snapads.com^
+||ads-interfaces.sc-cdn.net^
+||topic-sticker-vending.snapchat.com^
+||www.googleadservices.com^
