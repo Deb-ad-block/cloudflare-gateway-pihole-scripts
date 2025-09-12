@@ -22,20 +22,23 @@
 ! ||www.googleadservices.com
 ! Allowlist starts below : 
 @@||calculator-api-in.allawnos.com^
-@@||deviladblock.duckdns.org^
+! @@||deviladblock.duckdns.org^
 @@||duckdns.org^
 @@||gcp.api.snapchat.com^
 @@||raspiblock.duckdns.org^
-@@||newpc.raspiblock.duckdns.org^
+! @@||newpc.raspiblock.duckdns.org^
 @@||duckdns.org^
 @@||piratebayproxy.net^
 @@||ssoweb.loylty.com^
 @@||uhdmovies.cat^
 @@||v.redd.it^
+@@||vanced.to^
+@@||iobit.com^
 ! Uncomment the following when required :
 ! @@||tools.literaturetimes.com
-! @@||throwbin.in
+@@||throwbin.in
 ! @@||d.throwbin.in
 ! @@||megacloud.store^
 ! @@||entitlements.jwplayer.com^
+
 ! @@||megacloudforest.xyz^
