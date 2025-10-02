@@ -34,6 +34,8 @@
 @@||v.redd.it^
 @@||vanced.to^
 @@||iobit.com^
+@@||devilfirstdomain.dpdns.org^
+@@||librevm.qzz.io^
 ! Uncomment the following when required :
 ! @@||tools.literaturetimes.com
 @@||throwbin.in
@@ -42,3 +44,4 @@
 ! @@||entitlements.jwplayer.com^
 
 ! @@||megacloudforest.xyz^
+
